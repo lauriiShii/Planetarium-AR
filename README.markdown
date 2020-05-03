@@ -7,6 +7,8 @@ Aplicación desarrollada en Unity haciendo uso de AR Foundation lo que hace que 
 
 <html>
   <body>
-    <iframe src="https://youtu.be/CvuvfukpIo4" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+    <video width="540" height="310" controls>
+      <source src="https://youtu.be/CvuvfukpIo4" type="video/mp4">
+    </video>
   </body>
 </html>
