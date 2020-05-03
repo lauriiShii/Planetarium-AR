@@ -12,6 +12,12 @@ Parte 2:
 
 [![Demo Planetarium AR Part 2](https://i9.ytimg.com/vi/CvuvfukpIo4/mq2.jpg?sqp=CIaQvfUF&rs=AOn4CLCTXpf5ETmskkApziGKfL_twrZE1w)](https://youtu.be/CvuvfukpIo4)
 
+# Info de interes sobre el código descargable
+
+Cuando descarges el código y lo añadas a unity hub asegurate de que la versión con la que vas a abrir la solución tiene los modulos de Android o iOS instalados dependiendo de que tipo de compilación quieras generar.
+
+Actualmente la solución esta preparada para generar la compilación para Android. Si quieres generar una compilación para iOS solo tienes que configurar el Build Settings de la aplicación selecionando como aplicación iOS, recuerda que para esto debes haber instalado los modulos de iOS en la versión de unity que estes utilizando para ejecutar la solución de la aplicación.
+
 # Enlaces de interes
 
 Assets: https://assetstore.unity.com/packages/vfx/shaders/customizable-planet-shaders-131872#content
