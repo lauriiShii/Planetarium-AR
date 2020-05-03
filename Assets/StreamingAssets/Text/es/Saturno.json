@@ -1,0 +1,9 @@
+{
+"Id": 5,
+"Name": "Saturno",
+"Description": "Es el sexto planeta del sistema solar contando desde el Sol, el segundo en tamaño y masa después de Júpiter y el único con un sistema de anillos visible desde la Tierra. Forma parte de los denominados planetas exteriores o gaseosos. El aspecto más característico de Saturno son sus brillantes anillos. Las partículas que componen los anillos de Saturno giran a una velocidad de 48 000 km/h, 15 veces más rápido que una bala.",
+"ImagePath": "Images\\Planet\\Saturno",
+"Satellite": 61,
+"Ring": 1,
+"Diameter": 9.41
+}

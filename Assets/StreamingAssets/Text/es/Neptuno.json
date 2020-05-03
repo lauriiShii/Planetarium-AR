@@ -1,0 +1,9 @@
+{
+"Id": 7,
+"Name": "Neptuno",
+"Description": "Octavo planeta en distancia respecto al Sol y el más lejano del sistema solar. Es el cuarto planeta en diámetro y el tercero más grande en masa. Fue descubierto hace unos dos siglos allá por el año 1847. El planeta Neptuno está compuesto de roca fundida, agua, metano, hidrógeno, hielo y amoníaco líquido.",
+"ImagePath": "Images\\Planet\\Neptuno",
+"Satellite": 13,
+"Ring": 0,
+"Diameter": 3.81
+}

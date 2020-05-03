@@ -1,0 +1,9 @@
+{
+"Id": 3,
+"Name": "Marte",
+"Description": "Es el segundo de los planetas del Sistema solar de menor tamaño, después de Mercurio. Desde hace tiempo es comúnmente conocido como “planeta rojo”, fruto del color rojizo que adquiere por el óxido de hierro en la mayoría de su superficie. Su tamaño es casi la mitad del de la Tierra y su gravedad un 40% menor, lo cual lo hace prácticamente inhabitable.",
+"ImagePath": "Images\\Planet\\Marte",
+"Satellite": 2,
+"Ring": 0,
+"Diameter": 0.53
+}

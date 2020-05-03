@@ -1,0 +1,9 @@
+{
+"Id": 2,
+"Name": "La Tierra",
+"Description": "Nuestro planeta, es el mayor de los denominados planetas rocosos. Se formó hace unos 4600 millones de años y su nombre proviene del latín “Terra”. El 71% de su composición corresponde a la hidrosfera (agua), hecho diferencial que ha permitido la existencia y persistencia de la vida humana. Ningún otro planeta del Sistema Solar contiene tal nivel de líquido.",
+"ImagePath": "Images\\Planet\\LaTierra",
+"Satellite": 1,
+"Ring": 0,
+"Diameter": 0
+}

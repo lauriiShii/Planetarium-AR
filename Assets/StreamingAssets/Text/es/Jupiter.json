@@ -1,0 +1,9 @@
+{
+"Id": 4,
+"Name": "Júpiter",
+"Description": "Es precedido por el Sol, el planeta con mayor cuerpo celeste. Tiene un tamaño de 1300 veces mayor que la Tierra. Como cuerpo masivo gaseoso, su composición está formada básicamente de hidrógeno y hielo. Como dato curioso, es considerado el planeta más antiguo del Sistema Solar, precediendo al Sol inclusive.",
+"ImagePath": "Images\\Planet\\Jupiter",
+"Satellite": 63,
+"Ring": 0,
+"Diameter": 11.2
+}

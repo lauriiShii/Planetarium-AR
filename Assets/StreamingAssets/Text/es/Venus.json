@@ -1,0 +1,9 @@
+{
+"Id": 1,
+"Name": "Venus",
+"Description": "Es el segundo planeta del sistema solar en orden de distancia desde el Sol y el sexto en cuanto a tamaño. Carece de satélites naturales y es el segundo planeta en terraformación. Se trata de un planeta de tipo rocoso y terrestre, llamado con frecuencia el planeta hermano de la Tierra, ya que ambos son similares en cuanto a tamaño, masa y composición, aunque totalmente diferentes en cuestiones térmicas y atmosféricas (la temperatura media de Venus es de 463,85 ºC)",
+"ImagePath": "Images\\Planet\\Venus",
+"Satellite": 0,
+"Ring": 0,
+"Diameter": 0.95
+}

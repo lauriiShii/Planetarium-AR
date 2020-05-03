@@ -1,0 +1,9 @@
+{
+    "Id": 0,
+    "Name": "Mercurio",
+    "Description": "Es el planeta más cercano al Sol, a parte de ser el más pequeño de sus homólogos. Tiene un parecido a la Tierra, pues su composición es del 70% de elementos metálicos y el 30% restante corresponde a silicatos. Además, al igual que sucede con la Luna, Mercurio presenta un gran número de impactos de meteoritos.",
+    "ImagePath": "Images\\Planet\\Mercurio",
+    "Satellite": 0,
+    "Ring": 0,
+    "Diameter": 0.39
+}

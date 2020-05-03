@@ -1,0 +1,9 @@
+{
+"Id": 6,
+"Name": "Urano",
+"Description": "Este planeta está considerado el primero en ser descubierto mediante un telescopio. Su composición es muy parecida a la de sus hermanos Saturno y Júpiter, puesto que está formado por helio e hidrógeno, así como de agua, amoníaco y metano pero en cantidades mayores. Una peculiaridad de este planeta del Sistema Solar es su atmósfera, con las temperaturas más bajas de todo el Sistema, alcanzando la mínima de -224 grados Celsius",
+"ImagePath": "Images\\Planet\\Urano",
+"Satellite": 27,
+"Ring": 0,
+"Diameter": 3.98
+}
