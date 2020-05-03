@@ -6,4 +6,6 @@ Aplicación desarrollada en Unity haciendo uso de AR Foundation lo que hace que 
 [![Demo Planetarium AR Part 2](https://i9.ytimg.com/vi/CvuvfukpIo4/mq2.jpg?sqp=CIaQvfUF&rs=AOn4CLCTXpf5ETmskkApziGKfL_twrZE1w)](https://youtu.be/CvuvfukpIo4)
 
 
-<a href="{https://youtu.be/Z3-QxczSUMM}" title="Demo Planetarium AR Part 1"><img src="{https://i9.ytimg.com/vi/Z3-QxczSUMM/mq2.jpg?sqp=CLKQvfUF&rs=AOn4CLCj-G4AU9amvVXcVVHNef0yM8GAuQ}" alt="Demo Planetarium AR Part 1" /></a>
+<video src="https://youtu.be/Z3-QxczSUMM" controls>
+  Tu navegador no implementa el elemento <code>video</code>.
+</video>
