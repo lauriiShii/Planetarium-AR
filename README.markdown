@@ -32,3 +32,7 @@ Assets de planetas: https://assetstore.unity.com/packages/vfx/shaders/customizab
 
 Aplicación básica de AR-Foundationy explicación: https://github.com/fariazz/ARFoundationPlacementIndicator
 
+# Descarga Planetarium - AR para Android aquí:
+
+https://drive.google.com/open?id=1y7hH7EgBB5Ivt5w46p2MHdcWwO5pnUmS
+
