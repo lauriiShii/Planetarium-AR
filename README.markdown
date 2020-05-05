@@ -6,11 +6,11 @@ Aplicación desarrollada en Unity haciendo uso de AR Foundation lo que hace que 
 
 Parte 1:
 
-[![Demo Planetarium AR Part 1](https://i9.ytimg.com/vi/Z3-QxczSUMM/mq2.jpg?sqp=CPOEwfUF&rs=AOn4CLDnkt6WxKLrVA29pRR5-TlIl-MvNg)](https://youtu.be/Z3-QxczSUMM)
+[![Demo Planetarium AR Part 1](https://github.com/lauriiShii/Planetarium-AR/blob/master/Gifs/Demo%20Planetarium%20AR%20Part%201.gif)](https://youtu.be/Z3-QxczSUMM)
 
 Parte 2:
 
-[![Demo Planetarium AR Part 2](https://i9.ytimg.com/vi/CvuvfukpIo4/mq2.jpg?sqp=CMyEwfUF&rs=AOn4CLC0MGaGYoDbSwbx1c1nDZQYNUJyOA)](https://youtu.be/CvuvfukpIo4)
+[![Demo Planetarium AR Part 2](https://github.com/lauriiShii/Planetarium-AR/blob/master/Gifs/Demo%20Planetarium%20AR%20Part%202.gif)](https://youtu.be/CvuvfukpIo4)
 
 # Info de interes sobre el código descargable
 
